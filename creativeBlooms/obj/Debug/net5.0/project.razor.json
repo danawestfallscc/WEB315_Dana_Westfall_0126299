@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\danaw\\creativeBlooms\\creativeBlooms.csproj",
+  "FilePath": "c:\\Users\\danaw\\OneDrive - St. Clair College\\WEB315_Dana_Westfall_0126299\\creativeBlooms\\creativeBlooms.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,63 +15619,63 @@
   "RootNamespace": "creativeBlooms",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\danaw\\creativeBlooms\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\danaw\\creativeBlooms\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\danaw\\creativeBlooms\\Pages\\Flowers\\Create.cshtml",
-      "TargetPath": "Pages\\Flowers\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\danaw\\creativeBlooms\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\danaw\\creativeBlooms\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\danaw\\creativeBlooms\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\danaw\\creativeBlooms\\Pages\\Flowers\\Index.cshtml",
-      "TargetPath": "Pages\\Flowers\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\danaw\\creativeBlooms\\Pages\\Flowers\\Details.cshtml",
+      "FilePath": "c:\\Users\\danaw\\OneDrive - St. Clair College\\WEB315_Dana_Westfall_0126299\\creativeBlooms\\Pages\\Flowers\\Details.cshtml",
       "TargetPath": "Pages\\Flowers\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\danaw\\creativeBlooms\\Pages\\Flowers\\Delete.cshtml",
+      "FilePath": "c:\\Users\\danaw\\OneDrive - St. Clair College\\WEB315_Dana_Westfall_0126299\\creativeBlooms\\Pages\\Flowers\\Edit.cshtml",
+      "TargetPath": "Pages\\Flowers\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\danaw\\OneDrive - St. Clair College\\WEB315_Dana_Westfall_0126299\\creativeBlooms\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\danaw\\OneDrive - St. Clair College\\WEB315_Dana_Westfall_0126299\\creativeBlooms\\Pages\\Flowers\\Delete.cshtml",
       "TargetPath": "Pages\\Flowers\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\danaw\\creativeBlooms\\Pages\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\danaw\\OneDrive - St. Clair College\\WEB315_Dana_Westfall_0126299\\creativeBlooms\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\danaw\\creativeBlooms\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\danaw\\OneDrive - St. Clair College\\WEB315_Dana_Westfall_0126299\\creativeBlooms\\Pages\\Flowers\\Index.cshtml",
+      "TargetPath": "Pages\\Flowers\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\danaw\\OneDrive - St. Clair College\\WEB315_Dana_Westfall_0126299\\creativeBlooms\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\danaw\\OneDrive - St. Clair College\\WEB315_Dana_Westfall_0126299\\creativeBlooms\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\danaw\\creativeBlooms\\Pages\\Flowers\\Edit.cshtml",
-      "TargetPath": "Pages\\Flowers\\Edit.cshtml",
+      "FilePath": "c:\\Users\\danaw\\OneDrive - St. Clair College\\WEB315_Dana_Westfall_0126299\\creativeBlooms\\Pages\\Flowers\\Create.cshtml",
+      "TargetPath": "Pages\\Flowers\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\danaw\\OneDrive - St. Clair College\\WEB315_Dana_Westfall_0126299\\creativeBlooms\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\danaw\\OneDrive - St. Clair College\\WEB315_Dana_Westfall_0126299\\creativeBlooms\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\danaw\\OneDrive - St. Clair College\\WEB315_Dana_Westfall_0126299\\creativeBlooms\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
